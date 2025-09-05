@@ -7,3 +7,13 @@
 * commit
 * reset --hard
 * log --oneline
+> выводы.......................
+- [x] выводы
+- [ ] не выводы
+
+```python
+if x > 0:
+	print (x)
+else:
+	print ('выводы...')
+```
